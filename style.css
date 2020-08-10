@@ -21,7 +21,6 @@ header {
     position: fixed;
     top: 0;
     justify-content: space-between;
-    z-index: 1;
 }
 
 #userPhoto{
@@ -45,9 +44,7 @@ header {
 	height: 100%;
 	line-height: 80px;
 }
-section{	
-	z-index: -1;
-}
+
 .contend{
 	width: 80%;
 	margin-left: 10%;
